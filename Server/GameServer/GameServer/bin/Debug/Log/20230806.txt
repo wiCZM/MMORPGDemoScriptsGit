@@ -1,0 +1,80 @@
+
+2023-08-06 03:48:17,897 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-08-06 03:48:18,762 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-08-06 03:48:18,825 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:48:18,825 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:48:18,825 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:48:18,825 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:48:18,825 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:48:18,825 [16] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:48:18,825 [14] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:48:18,827 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:48:18,882 [1] [WARN ] [GameServer] £ºNetService Started
+2023-08-06 03:49:52,356 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-08-06 03:49:52,537 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-08-06 03:49:52,611 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:49:52,611 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:49:52,612 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:49:52,612 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:49:52,612 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:49:52,612 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:49:52,613 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:49:52,613 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:49:52,678 [1] [WARN ] [GameServer] £ºNetService Started
+2023-08-06 03:50:06,878 [1] [INFO ] [GameServer] £ºGame Server Exiting...
+2023-08-06 03:50:06,945 [1] [WARN ] [GameServer] £ºStop NetService...
+2023-08-06 03:50:06,946 [1] [WARN ] [GameServer] £ºStoping Message Handler...
+2023-08-06 03:50:06,947 [8] [WARN ] [GameServer] £ºMessageDistribute thread end
+2023-08-06 03:50:06,947 [7] [WARN ] [GameServer] £ºMessageDistribute thread end
+2023-08-06 03:50:06,947 [10] [WARN ] [GameServer] £ºMessageDistribute thread end
+2023-08-06 03:50:06,947 [11] [WARN ] [GameServer] £ºMessageDistribute thread end
+2023-08-06 03:50:06,947 [5] [WARN ] [GameServer] £ºMessageDistribute thread end
+2023-08-06 03:50:06,947 [6] [WARN ] [GameServer] £ºMessageDistribute thread end
+2023-08-06 03:50:06,947 [13] [WARN ] [GameServer] £ºMessageDistribute thread end
+2023-08-06 03:50:06,947 [12] [WARN ] [GameServer] £ºMessageDistribute thread end
+2023-08-06 03:50:07,049 [1] [INFO ] [GameServer] £ºGame Server Exited
+2023-08-06 03:52:07,679 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-08-06 03:52:07,850 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-08-06 03:52:07,901 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:52:07,901 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:52:07,901 [14] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:52:07,901 [17] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:52:07,901 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:52:07,901 [16] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:52:07,928 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:52:07,901 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:52:07,957 [1] [WARN ] [GameServer] £ºNetService Started
+2023-08-06 03:57:10,853 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-08-06 03:57:10,961 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-08-06 03:57:11,026 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:57:11,027 [17] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:57:11,027 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:57:11,027 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:57:11,027 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:57:11,027 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:57:11,027 [16] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:57:11,027 [14] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 03:57:11,082 [1] [WARN ] [GameServer] £ºNetService Started
+2023-08-06 04:06:57,716 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-08-06 04:06:57,920 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-08-06 04:06:57,999 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:06:57,999 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:06:57,999 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:06:57,999 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:06:57,999 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:06:57,999 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:06:58,001 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:06:58,002 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:06:58,032 [1] [WARN ] [GameServer] £ºNetService Started
+2023-08-06 04:35:40,623 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-08-06 04:35:40,815 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-08-06 04:35:40,861 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:35:40,861 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:35:40,861 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:35:40,861 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:35:40,862 [18] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:35:40,898 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:35:40,898 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:35:40,898 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-06 04:35:40,923 [1] [WARN ] [GameServer] £ºNetService Started
+2023-08-06 04:43:43,301 [1] [INFO ] [GameServer] £ºGame Server Init

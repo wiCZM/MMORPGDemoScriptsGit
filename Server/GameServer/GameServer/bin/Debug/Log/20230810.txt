@@ -1,0 +1,27 @@
+
+2023-08-10 18:48:25,723 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-08-10 18:48:26,707 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-08-10 18:48:26,786 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:26,786 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:26,786 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:26,786 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:26,786 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:26,786 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:26,786 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:26,786 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:26,887 [1] [WARN ] [GameServer] £ºNetService Started
+2023-08-10 18:48:36,960 [1] [INFO ] [GameServer] £ºGame Server Init
+2023-08-10 18:48:37,137 [1] [WARN ] [GameServer] £ºStarting Listener...
+2023-08-10 18:48:37,174 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:37,174 [12] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:37,174 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:37,175 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:37,175 [13] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:37,174 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:37,175 [8] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:37,175 [20] [WARN ] [GameServer] £ºMessageDistribute thread start
+2023-08-10 18:48:37,255 [1] [WARN ] [GameServer] £ºNetService Started
+2023-08-10 18:49:19,118 [3] [WARN ] [GameServer] £ºClient[10.0.0.100:51331]] Connected
+2023-08-10 18:49:19,182 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:24
+2023-08-10 18:49:19,285 [6] [INFO ] [GameServer] £ºUserRegisterRequest: User:123456  Pass:123456
+2023-08-10 18:49:53,240 [19] [WARN ] [GameServer] £ºClient[] Disconnected

@@ -1,0 +1,177 @@
+
+2023-08-12 17:47:57,628 [1] [INFO ] [GameServer] ：Game Server Init
+2023-08-12 17:47:58,698 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-08-12 17:47:58,772 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:47:58,773 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:47:58,773 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:47:58,773 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:47:58,773 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:47:58,773 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:47:58,773 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:47:58,773 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:47:58,871 [1] [WARN ] [GameServer] ：NetService Started
+2023-08-12 17:48:32,494 [1] [INFO ] [GameServer] ：Game Server Init
+2023-08-12 17:48:32,715 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-08-12 17:48:32,769 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:48:32,769 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:48:32,770 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:48:32,806 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:48:32,807 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:48:32,806 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:48:32,806 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:48:32,806 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:48:32,835 [1] [WARN ] [GameServer] ：NetService Started
+2023-08-12 17:58:20,772 [1] [INFO ] [GameServer] ：Game Server Init
+2023-08-12 17:58:20,946 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-08-12 17:58:21,006 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:58:21,006 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:58:21,006 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:58:21,006 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:58:21,006 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:58:21,006 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:58:21,006 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:58:21,008 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 17:58:21,095 [1] [WARN ] [GameServer] ：NetService Started
+2023-08-12 17:58:45,686 [3] [WARN ] [GameServer] ：Client[10.0.0.100:56242]] Connected
+2023-08-12 17:58:56,254 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:32
+2023-08-12 17:58:56,356 [5] [INFO ] [GameServer] ：UserLoginRequest: User:12345  Pass:输入密码...
+2023-08-12 17:58:57,094 [5] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, GameServer,    在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 75
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2023-08-12 18:00:04,340 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:23
+2023-08-12 18:00:04,340 [5] [INFO ] [GameServer] ：UserLoginRequest: User:12345  Pass:123456
+2023-08-12 18:00:04,348 [5] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, GameServer,    在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 75
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2023-08-12 18:00:16,244 [13] [WARN ] [GameServer] ：Client[] DataReceived Len:24
+2023-08-12 18:00:16,244 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123456  Pass:123456
+2023-08-12 18:00:16,273 [5] [INFO ] [GameServer] ：sender.SendData:数据已发送!!!!!!!
+2023-08-12 18:00:56,684 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2023-08-12 18:07:53,615 [13] [WARN ] [GameServer] ：Client[10.0.0.100:56342]] Connected
+2023-08-12 18:07:57,424 [28] [WARN ] [GameServer] ：Client[] DataReceived Len:24
+2023-08-12 18:07:57,425 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123456  Pass:123456
+2023-08-12 18:07:57,429 [5] [INFO ] [GameServer] ：sender.SendData:数据已发送!!!!!!!
+2023-08-12 18:08:13,647 [28] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2023-08-12 18:08:13,649 [5] [INFO ] [GameServer] ：UserLoginRequest: Name:士  Pass:Warrior
+2023-08-12 18:08:13,663 [5] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, GameServer,    在 GameServer.Services.UserService.OnCreateCharacter(NetConnection`1 sender, UserCreateCharacterRequest request) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 129
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2023-08-12 18:08:15,382 [27] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2023-08-12 18:08:15,383 [5] [INFO ] [GameServer] ：UserLoginRequest: Name:士  Pass:Warrior
+2023-08-12 18:08:15,393 [5] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, GameServer,    在 GameServer.Services.UserService.OnCreateCharacter(NetConnection`1 sender, UserCreateCharacterRequest request) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 129
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2023-08-12 18:08:15,989 [28] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2023-08-12 18:08:15,989 [6] [INFO ] [GameServer] ：UserLoginRequest: Name:士  Pass:Warrior
+2023-08-12 18:08:15,996 [6] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, GameServer,    在 GameServer.Services.UserService.OnCreateCharacter(NetConnection`1 sender, UserCreateCharacterRequest request) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 129
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2023-08-12 18:08:16,447 [27] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2023-08-12 18:08:16,447 [5] [INFO ] [GameServer] ：UserLoginRequest: Name:士  Pass:Warrior
+2023-08-12 18:08:16,455 [5] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, GameServer,    在 GameServer.Services.UserService.OnCreateCharacter(NetConnection`1 sender, UserCreateCharacterRequest request) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 129
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2023-08-12 18:09:16,499 [27] [WARN ] [GameServer] ：Client[] Disconnected
+2023-08-12 18:16:44,333 [33] [WARN ] [GameServer] ：Client[10.0.0.100:56442]] Connected
+2023-08-12 18:16:51,313 [48] [WARN ] [GameServer] ：Client[] DataReceived Len:24
+2023-08-12 18:16:51,313 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123456  Pass:123456
+2023-08-12 18:16:51,318 [5] [INFO ] [GameServer] ：sender.SendData:数据已发送!!!!!!!
+2023-08-12 18:17:08,596 [33] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2023-08-12 18:17:08,596 [5] [INFO ] [GameServer] ：UserLoginRequest: Name:哈欠  Pass:Warrior
+2023-08-12 18:17:08,608 [5] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, GameServer,    在 GameServer.Services.UserService.OnCreateCharacter(NetConnection`1 sender, UserCreateCharacterRequest request) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 129
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2023-08-12 22:32:40,866 [1] [INFO ] [GameServer] ：Game Server Init
+2023-08-12 22:32:41,091 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-08-12 22:32:41,159 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:32:41,159 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:32:41,159 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:32:41,159 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:32:41,159 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:32:41,159 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:32:41,159 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:32:41,159 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:32:41,200 [1] [WARN ] [GameServer] ：NetService Started
+2023-08-12 22:33:05,424 [3] [WARN ] [GameServer] ：Client[10.0.0.100:57594]] Connected
+2023-08-12 22:33:08,560 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2023-08-12 22:34:04,485 [17] [WARN ] [GameServer] ：Client[10.0.0.100:57609]] Connected
+2023-08-12 22:34:14,097 [13] [WARN ] [GameServer] ：Client[] DataReceived Len:24
+2023-08-12 22:34:14,193 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123456  Pass:123456
+2023-08-12 22:34:14,532 [5] [INFO ] [GameServer] ：sender.SendData:数据已发送!!!!!!!
+2023-08-12 22:34:35,359 [13] [WARN ] [GameServer] ：Client[] Disconnected
+2023-08-12 22:35:12,139 [1] [INFO ] [GameServer] ：Game Server Init
+2023-08-12 22:35:12,307 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-08-12 22:35:12,375 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:35:12,376 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:35:12,376 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:35:12,376 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:35:12,376 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:35:12,376 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:35:12,376 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:35:12,376 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 22:35:12,414 [1] [WARN ] [GameServer] ：NetService Started
+2023-08-12 22:35:38,977 [3] [WARN ] [GameServer] ：Client[10.0.0.100:57641]] Connected
+2023-08-12 22:35:51,775 [8] [WARN ] [GameServer] ：Client[] Disconnected
+2023-08-12 22:36:12,042 [8] [WARN ] [GameServer] ：Client[10.0.0.100:57652]] Connected
+2023-08-12 22:36:13,736 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-08-12 22:36:13,827 [5] [INFO ] [GameServer] ：UserLoginRequest: User:输入用户名...  Pass:输入密码...
+2023-08-12 22:36:14,182 [5] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, GameServer,    在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 75
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2023-08-12 22:36:14,221 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-08-12 22:36:14,222 [7] [INFO ] [GameServer] ：UserLoginRequest: User:输入用户名...  Pass:输入密码...
+2023-08-12 22:36:14,231 [7] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, GameServer,    在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 75
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2023-08-12 22:36:14,857 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-08-12 22:36:14,857 [5] [INFO ] [GameServer] ：UserLoginRequest: User:输入用户名...  Pass:输入密码...
+2023-08-12 22:36:14,865 [5] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, GameServer,    在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 75
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2023-08-12 22:36:19,512 [12] [WARN ] [GameServer] ：Client[] Disconnected
+2023-08-12 22:37:35,377 [12] [WARN ] [GameServer] ：Client[10.0.0.100:57658]] Connected
+2023-08-12 22:37:37,443 [18] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-08-12 22:37:37,444 [5] [INFO ] [GameServer] ：UserLoginRequest: User:输入用户名...  Pass:输入密码...
+2023-08-12 22:37:37,452 [5] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, GameServer,    在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 75
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2023-08-12 22:37:48,748 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2023-08-12 22:53:35,490 [3] [WARN ] [GameServer] ：Client[10.0.0.100:57809]] Connected
+2023-08-12 22:53:44,985 [46] [WARN ] [GameServer] ：Client[] DataReceived Len:45
+2023-08-12 22:53:44,985 [5] [INFO ] [GameServer] ：UserLoginRequest: User:输入用户名...  Pass:输入密码...
+2023-08-12 22:53:45,000 [5] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, GameServer,    在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 75
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\T2\Unity\Demo\mymmorpg\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2023-08-12 22:53:54,875 [46] [WARN ] [GameServer] ：Client[] Disconnected
+2023-08-12 22:54:26,333 [47] [WARN ] [GameServer] ：Client[10.0.0.100:57831]] Connected
+2023-08-12 22:54:33,408 [50] [WARN ] [GameServer] ：Client[] DataReceived Len:24
+2023-08-12 22:54:33,408 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123456  Pass:123456
+2023-08-12 22:54:33,433 [5] [INFO ] [GameServer] ：sender.SendData:数据已发送!!!!!!!
+2023-08-12 22:54:40,770 [51] [WARN ] [GameServer] ：Client[] Disconnected
+2023-08-12 23:01:12,258 [51] [WARN ] [GameServer] ：Client[10.0.0.100:57891]] Connected
+2023-08-12 23:01:29,323 [51] [WARN ] [GameServer] ：Client[] Disconnected
+2023-08-12 23:05:30,141 [1] [INFO ] [GameServer] ：Game Server Init
+2023-08-12 23:05:30,341 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-08-12 23:05:30,413 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:05:30,413 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:05:30,414 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:05:30,414 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:05:30,414 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:05:30,414 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:05:30,414 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:05:30,414 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:05:30,518 [1] [WARN ] [GameServer] ：NetService Started
+2023-08-12 23:05:50,273 [3] [WARN ] [GameServer] ：Client[10.0.0.100:57935]] Connected
+2023-08-12 23:05:54,975 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:24
+2023-08-12 23:05:55,080 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123456  Pass:123456
+2023-08-12 23:05:55,454 [5] [INFO ] [GameServer] ：sender.SendData:数据已发送!!!!!!!
+2023-08-12 23:06:15,877 [21] [WARN ] [GameServer] ：Client[] Disconnected
+2023-08-12 23:30:35,451 [1] [INFO ] [GameServer] ：Game Server Init
+2023-08-12 23:30:35,640 [1] [WARN ] [GameServer] ：Starting Listener...
+2023-08-12 23:30:35,706 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:30:35,706 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:30:35,706 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:30:35,706 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:30:35,707 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:30:35,707 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:30:35,707 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:30:35,706 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2023-08-12 23:30:35,759 [1] [WARN ] [GameServer] ：NetService Started
+2023-08-12 23:31:45,234 [3] [WARN ] [GameServer] ：Client[10.0.0.100:58167]] Connected
+2023-08-12 23:31:46,928 [15] [WARN ] [GameServer] ：Client[] DataReceived Len:24
+2023-08-12 23:31:47,030 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123456  Pass:123456
+2023-08-12 23:31:47,376 [5] [INFO ] [GameServer] ：sender.SendData:数据已发送!!!!!!!
+2023-08-12 23:32:15,520 [15] [WARN ] [GameServer] ：Client[] Disconnected
+2023-08-12 23:32:36,694 [6] [WARN ] [GameServer] ：Client[10.0.0.100:58173]] Connected
+2023-08-12 23:32:37,918 [6] [WARN ] [GameServer] ：Client[] DataReceived Len:24
+2023-08-12 23:32:37,918 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123456  Pass:123456
+2023-08-12 23:32:37,921 [5] [INFO ] [GameServer] ：sender.SendData:数据已发送!!!!!!!
+2023-08-12 23:33:46,942 [6] [WARN ] [GameServer] ：Client[] Disconnected
